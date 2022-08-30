@@ -1,0 +1,26 @@
+/*------estilos generales---*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Roboto:ital,wght@0,100;0,400;0,500;1,100&display=swap');
+
+body{
+    font-family: "Montserrat", sans-serif;
+    overflow-x: hidden;
+}
+
+/*----MENU----*/
+
+#menu a{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+#menu button{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/*---sliders de imagenes----*/
+
+.carousel-inner{
+    max-height: 35rem;
+}
